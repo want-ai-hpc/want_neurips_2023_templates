@@ -1,2 +1,2 @@
-# want_neurips_2023_templates
-Templates for papers submitted to the Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT @ NeurIPS 2023)
+# Templates for paper submissions at WANT @ NeurIPS 2023
+Templates `(.tex, .sty, .pdf)` for papers submitted to the [Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT @ NeurIPS 2023)](https://want-ai-hpc.github.io/neurips2023/about/)
